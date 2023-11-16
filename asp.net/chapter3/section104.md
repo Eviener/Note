@@ -16,4 +16,4 @@
 
 加入的图片需要设置属性，生成操作--嵌入的资源
 
-![](<../../.gitbook/assets/image (2).png>)
+![](<../../.gitbook/assets/image (2) (1).png>)
